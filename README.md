@@ -1,24 +1,3 @@
-# Crisp Single Column
-
-Based on [Kathy Qian's](http://kathyqian.com) original two columns styles. 
-
-## Customizations:
-* Header is now in the same column as the index
-* Follow icons are under the blog title
-* Navigation links are floated right
-* Removed diqus comments
-* Header is in `default.hbs` (home page) only
-* *Updated from Ghost3.0*
-* Font link color
-* Added [Montserrat font](https://fonts.google.com/specimen/Montserrat) as core post font
-* No site logo
-
-## Suggested Updates:
-* Finish the updates for Ghost3.0
- 
-![Desktop Screenshot](https://github.com/ParseThis/crisp/raw/single-column-layout/assets/screenshot-desktop.png)
-
-
 # Crisp
 
 A minimalist, responsive, and open-source two-column theme for the [Ghost](http://ghost.org) publishing platform by [Kathy Qian](http://kathyqian.com). Last tested with Ghost v2.1.1. For the last version tested with pre-2.0 Ghost releases, see the [ghost-sub-2](https://github.com/kathyqian/crisp/tree/ghost-sub-2) branch.
